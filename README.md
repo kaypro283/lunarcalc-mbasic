@@ -1,15 +1,15 @@
-# LUNARCALC — An MBASIC-80 Astronomy Tool
+# MOONCALC — An MBASIC-80 Astronomy Tool
 
 **Author:** Christopher D. Van Der Kaay, Ph.D.  
 **Version:** 1.0 (2025)  
 **Platform:** MBASIC-80 (CP/M and DOS compatible)  
-**File:** `LUNARCALC.BAS`  
+**File:** `MOONCALC.BAS`  
 
 ---
 
-## What is LUNARCALC?
+## What is MOONCALC?
 
-LUNARCALC is a fully self-contained astronomy tool written in Microsoft BASIC-80 (MBASIC), capable of calculating:
+MOONCALC is a fully self-contained astronomy tool written in Microsoft BASIC-80 (MBASIC), capable of calculating:
 
 - The **current lunar phase** and percentage illumination
 - The **next full moon and new moon** (based on elongation angles)
@@ -21,7 +21,7 @@ UNARCALC performs several iterative astronomical calculations, including precise
 
 This program has been tested on an IBM XT clone with a NEC V20 at ~10 MHz, 286, and a Pentium III running DOS
 
-Sarches for full or new moons may take anywhere from several seconds to several minutes. Slower Z80-based systems (such as Kaypro, Osborne, or similar CP/M machines) may take longer to complete a full lunar cycle scan (potentially hours). **If you're running LUNARCALC on slower 8-bit machines, please be patient.**
+Sarches for full or new moons may take anywhere from several seconds to several minutes. Slower Z80-based systems (such as Kaypro, Osborne, or similar CP/M machines) may take longer to complete a full lunar cycle scan (potentially hours). **If you're running MOONCALC on slower 8-bit machines, please be patient.**
 
 ---
 
@@ -53,7 +53,7 @@ My goal was to make a useful and educational astronomy program that runs on 8-bi
 
 ## Known Limitations
 
-While LUNARCALC is accurate given the platform, there are some limitations:
+While MOONCALC is accurate given the platform, there are some limitations:
 
 ### Full Moon / New Moon Accuracy
 - The **date is typically correct**, but the **time can be off by a few hours**.
@@ -70,7 +70,7 @@ While LUNARCALC is accurate given the platform, there are some limitations:
 
 ## Running the Program
 
-You can run `LUNARCALC.BAS` on any MBASIC-80 interpreter, either real hardware or emulated.
+You can run `MOONCALC.BAS` on any MBASIC-80 interpreter, either real hardware or emulated.
 
 ### Example environments:
 - CP/M machines with MBASIC 5.21
@@ -115,7 +115,7 @@ If you have suggestions or want to collaborate, feel free to open an issue or re
 
 ---
 
-## 📜 License
+## License
 
 This project is released under the [MIT License](LICENSE).
 
