@@ -29,11 +29,11 @@ Sarches for full or new moons may take anywhere from several seconds to several 
 
 This project has been a proverbial labor of love. Over the course of about a month or so, I combined my interest in astronomy and math with my love of BASIC.
 
-My goal was to make a useful and educational astronomy program that runs on 8-bit systems, while focusing on comapatbility with other forms of BASIC. I avoided any non-standard or later constructs (`ELSE`, `END IF`, string comments using `'`, etc.), and wrote it with classic line-numbered BASIC style.
+My goal was to make a useful and educational astronomy program that runs on 8-bit systems, while focusing on comapatbility with other forms of BASIC. I avoided any non-standard or later constructs (`ELSE`, `END IF`, string comments using `'`, etc.).
 
 ---
 
-## Key Features
+## Features
 
 - **MBASIC-80 Compatible**  
   No use of `ELSE`, `END IF`, `ELSE IF`, or single-quote comments to ensure portability with other dialects of BASIC.
@@ -63,8 +63,8 @@ While MOONCALC is accurate given the platform, there are some limitations:
   - The lack of iterative root-finding or perturbation modeling (which programs like NASA’s SPICE or JPL DE ephemerides would use)
 
 ### Sunrise and Sunset
-- These are generally **spot on**, often within a minute or two of modern calculators.
-- Atmospheric effects (e.g., refraction) are **not** modeled, but the results are still highly usable.
+- These are generally spot on, often within a minute or two of modern calculators.
+- Atmospheric effects (e.g., refraction) are **not** modeled, but the results are still usable.
 
 ---
 
