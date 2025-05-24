@@ -39,7 +39,7 @@ My goal was to make a useful and educational astronomy program that runs on 8-bi
   No use of `ELSE`, `END IF`, `ELSE IF`, or single-quote comments to ensure portability with other dialects of BASIC.
 
 - **Double-Precision Calculations**  
-  All numeric variables (except for string arrays) are explicitly declared as double-precision.
+  Numeric variables (except for string arrays) are explicitly declared as double-precision.
 
 - **Astronomical Accuracy Within 8-bit Limits**  
   - Moon phase and illumination calculations use Meeus-style approximations.  
