@@ -64,7 +64,7 @@ While MOONCALC is accurate given the platform, there are some limitations:
 
 ### Sunrise and Sunset
 - These are generally spot on, often within a minute or two of modern calculators.
-- Atmospheric effects (e.g., refraction) are **not** modeled, but the results are still usable.
+- Atmospheric effects (e.g., refraction) are not modeled.
 
 ---
 
@@ -112,11 +112,3 @@ This is an ongoing project, and I plan to expand it with additional astronomical
     - How MBASIC handles floating-point arithmetic
 
 If you have suggestions or want to collaborate, feel free to open an issue or reach out!
-
----
-
-## License
-
-This project is released under the [MIT License](LICENSE).
-
-You are free to use, modify, and redistribute it — especially if you're using it for educational, retrocomputing, or hobbyist purposes.
