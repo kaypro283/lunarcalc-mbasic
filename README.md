@@ -70,12 +70,7 @@ While MOONCALC is accurate given the platform, there are some limitations:
 
 ## Running the Program
 
-You can run `MOONCALC.BAS` on any MBASIC-80 interpreter, either real hardware or emulated.
-
-### Example environments:
-- CP/M machines with MBASIC 5.21
-- DOS environments using GW-BASIC or BASICA (compatibility varies)
-- Emulators like **MYZ80**, **CPMBOX**, or **DOSBox** with MBASIC
+You can run `MOONCALC.BAS` on any MBASIC-80 interpreter.
 
 ### Steps:
 1. Boot into CP/M or DOS
