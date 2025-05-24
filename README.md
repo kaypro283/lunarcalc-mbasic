@@ -17,7 +17,7 @@ MOONCALC is a fully self-contained astronomy tool written in Microsoft BASIC-80 
 
 This is not a NASA tool, but it *is* a surprisingly powerful lunar calculator written in MBASIC. It’s a tribute to what 8-bit systems can still do. The program is designed for systems running CP/M or DOS, and it has been tested extensively in MBASIC-80. It's a complete, stand-alone tool requiring no external libraries or modules — just a BASIC interpreter.
 
-UNARCALC performs several iterative astronomical calculations, including precise lunar phase searches using small time increments (0.00001 days per step, or ~0.864 seconds). While this allows for reasonably accurate results on legacy hardware, performance will vary significantly depending on your system's speed.
+MOONCALC performs several iterative astronomical calculations, including precise lunar phase searches using small time increments (0.00001 days per step, or ~0.864 seconds). While this allows for reasonably accurate results on legacy hardware, performance will vary significantly depending on your system's speed.
 
 This program has been tested on an IBM XT clone with a NEC V20 at ~10 MHz, 286, and a Pentium III running DOS
 
